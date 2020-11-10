@@ -36,7 +36,7 @@ The user will need to create an account to gain access to the site, due to the n
 ***
 
 ### Component Hierarchy Diagram
-![CHD]()
+![CHD](./images_readme/components.png)
 
 <!-- ***  -->
 <!-- ### Screenshots
