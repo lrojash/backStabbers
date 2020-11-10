@@ -38,6 +38,9 @@ The user will need to create an account to gain access to the site, due to the n
 ### Component Hierarchy Diagram
 ![CHD](./images_readme/components.png)
 
+### Tracking
+[Trello](https://trello.com/b/VO6MigFu/bakstabbers)
+
 <!-- ***  -->
 <!-- ### Screenshots
 {} -->
