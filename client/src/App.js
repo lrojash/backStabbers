@@ -1,11 +1,8 @@
-import './styles/App.css';
+import React from 'react'
+import Router from './components/Router' 
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Works</h1>
-    </div>
-  );
+  return <Router />
 }
 
 export default App;
