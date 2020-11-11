@@ -1,5 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import '../styles/Nav.css'
 
 export default ({ className }) => {
     return (
@@ -7,9 +8,9 @@ export default ({ className }) => {
             <NavLink activeClassName="nav-active" to="/profile">
                 Profile
             </NavLink>
-            <Navlink activeClassName="nav-active" to ="/connections">
+            <NavLink activeClassName="nav-active" to ="/connections">
                 Connections
-            </Navlink>
+            </NavLink>
             <NavLink activeClassName="nav-active" to="/">
                 Sign Out
             </NavLink>
