@@ -6,10 +6,7 @@ export default () => {
     return (
         <div>
             <Card>
-                <h2>picture</h2>
-                <h2>username</h2>
-                <h2>connections</h2>
-                <h2>other stuff</h2>
+
             </Card>
 
             <PostCard>
