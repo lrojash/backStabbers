@@ -1,12 +1,11 @@
-// import React from 'react'
-// import Nav from './Nav'
+import React from 'react'
+import Nav from './nav'
 
-// export default ({ children, authenticated, currentUser }) => (
-//     <div>
-//         <Nav
-//             authenticated={ }
-//             currentUser={ }
-//             className="header-elevated"
-//         />
-//     </div>
-// )
+export default ({ children }) => {
+    <div>
+        <Nav
+            className="nav-header"
+        />
+        {children}
+    </div>
+}

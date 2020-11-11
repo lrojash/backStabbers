@@ -1,10 +1,13 @@
 import React from 'react'
+import Nav from '../components/Nav'
 import '../styles/LandingPage.css'
 
-export default ({props}) => {
+
+export default ({ children }) => {
     return (
         <div>
-            <p>landingpage</p>
+            <Nav />
+            {children}  
         </div>
     )
 }
