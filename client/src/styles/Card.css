@@ -1,0 +1,11 @@
+.card{
+    color: rgba(255, 255, 255, 0.781);
+    /* border: 2px solid black; */
+    width: 15em;
+    height: 25em;
+    margin: 2em 0em 0em 0em;
+    /* background-color: green; */
+    display:flex;
+    flex-direction: column;
+    
+}

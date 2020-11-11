@@ -1,9 +1,11 @@
 nav {
     display: flex;
     justify-content: flex-end;
+    flex: 1;
     padding: 1.5em;
-    background-color: rgba(34, 83, 128, 0.219);
+    background-color: rgba(34, 83, 128, 0.829);
     border-radius: 5%;
+
 }
 a {
     padding: 0em 2em 0 2em;
